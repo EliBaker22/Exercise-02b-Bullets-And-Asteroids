@@ -18,3 +18,8 @@ None
 
 ## Created by
 Nathan Mishler
+
+My name is:
+Eli Baker
+My github username is:
+EliBaker22
